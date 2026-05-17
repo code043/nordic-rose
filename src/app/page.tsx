@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <section className="py-10">
-      <div className="flex justify-center mt-10">
+      <div className="flex justify-center mt-1">
         <Image
           src="/hero.png"
           alt="imagem"

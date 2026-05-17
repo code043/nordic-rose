@@ -8,7 +8,7 @@ export default function Home() {
       <section className="py-10">
         <Hero />
       </section>
-      <section className="py-10">
+      <section className="flex justify-center py-10">
         <Articles />
       </section>
        <section className="py-10">

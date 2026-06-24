@@ -3,6 +3,8 @@
 
 Blog example.
 
+![Nordic Rose](./docs/preview.png)
+
 
 ## Getting Started
 

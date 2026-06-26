@@ -18,7 +18,7 @@ Blog example.
 
 ```bash
 git clone https://github.com/code043/nordic-rose.git
-cd nordic_rose
+cd nordic-rose
 npm install
 npm run start
 ```

@@ -1,6 +1,7 @@
 
 # Nordic Rose
 
+
 Blog example.
 
 
@@ -8,7 +9,9 @@ Blog example.
 
 ## Getting Started
 
+
 ### Requirements
+
 
 - Vscode
 - Node
